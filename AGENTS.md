@@ -3,6 +3,15 @@
 
 A developer knowlegde hub for snippets, commands, prompts, notes, files, images, links and custom types.
 
+## Context Files
+
+Read the following to get the full context of the project:
+
+- @memory-bank/project-overview.md
+- @memory-bank/coding-standards.md
+- @memory-bank/ai-interaction.md
+- @memory-bank/current-feature.md
+
 ## Commands
 
 - **Dev server**: `npm run dev` (runs on <http://localhost:3000>)
