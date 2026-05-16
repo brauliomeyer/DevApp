@@ -1,5 +1,22 @@
 <!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# devapp
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
+A developer knowlegde hub for snippets, commands, prompts, notes, files, images, links and custom types.
+
+## Commands
+
+- **Dev server**: `npm run dev` (runs on <http://localhost:3000>)
+- **Build**: `npm run build`
+- **Production server**: `npm run start`
+- **Lint**: `npm run lint`
+
+## Architecture
+
+This is a Next.js application using:
+
+- **App Router**: with files in the `src/app/`
+- **React**: with the React compiler enabled (`reactCompiler: true` in the next.config.ts)
+- **TailWind CSS**: via PostCSS
+- **TypeScript**: with strict mode and `@/*` path alias mapping to `./src/*`
+
 <!-- END:nextjs-agent-rules -->
