@@ -38,7 +38,7 @@ We will create a new branch for every feature/fix. Name branch **feature/[featur
 
 ## When Stuck
 
-- If something isn't working after 2-3 attempts, stop and explain the issue
+- If something isn't working after 2 attempts, stop and explain the issue
 - Don't keep trying random fixes
 - Ask for clarification if requirements are unclear
 
@@ -53,7 +53,7 @@ We will create a new branch for every feature/fix. Name branch **feature/[featur
 
 Review AI-generated code periodically, especially for:
 
-- Security (auth checks, input validation)
+- Security (auth checks, strict and smart input validation)
 - Performance (unnecessary re-renders, N+1 queries)
 - Logic errors (edge cases)
 - Patterns (matches existing codebase?)

@@ -81,7 +81,7 @@ Example v4 configuration:
 
 - Server components fetch directly with Prisma
 - Client components use Server Actions
-- Validate all inputs with Zod
+- Validate all inputs stict with Zod
 
 ## Error Handling
 
