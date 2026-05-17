@@ -4,7 +4,7 @@
 
 ---
 
-## 1) Problem
+## 1 Problem
 
 Developers keep essential knowledge scattered across too many places:
 
