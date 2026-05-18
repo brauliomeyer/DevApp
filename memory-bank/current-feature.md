@@ -18,6 +18,7 @@ Not Started
 
 ## History
 
-<!-- Keep this updated. Earliest to latest -->
-
+- **Initial Setup**
+- Initial setup of Next.js Latest (App Router, TypeScript configured, Tailwind CSS) (completed)
 - Project setup and boilerplate cleanup
+<!-- Keep this updated. Earliest to latest -->
